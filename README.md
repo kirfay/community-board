@@ -19,7 +19,7 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [X] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
